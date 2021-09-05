@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+	background-color: #ffdfe4;
+	font-family: 'Jua', sans-serif;
+	color: #ff5893;
+	font-size: 30pt;
+	cursor: url("purinangel.cur"), auto;
+}
+
+button {
+	background-color: white;
+	border-radius: 15px;
+	width: 500px;
+	height: 100px;
+	border-color: gray;
+	border-width: 2px;
+	cursor: url("purin.cur"), auto;
+	
+}
+
+button:hover {
+	background-color: #ffdfe4;
+	border-radius: 15px;
+}
+
+#q {
+	font-size: 50pt;
+}
